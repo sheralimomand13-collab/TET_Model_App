@@ -56,7 +56,7 @@ for key, df in k_tables.items():
 # ========================================================
 param_ranges = {
     "Catalyst dose": (5, 30),
-    "PMS dose": (1, 5),
+    "PMS dose": (20, 120),
     "pH study": (1, 14),
     "Power study": (200, 700),
     "TET concentration": (1, 20)
